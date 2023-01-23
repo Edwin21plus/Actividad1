@@ -33,7 +33,7 @@ export default class Ventana1 extends Component {
           }} style={{width: 200, height: 200}}
           />
         <Button
-        title='huevos'
+        title='Ver Detalles'
         onPress={btnClick}
         >
             
