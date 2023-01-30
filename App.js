@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import  Ventana2 from './Ventana2.js';
+import  Menu from './Menu';
 
 export default function App() {
   return (
@@ -8,7 +8,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!bhbbhbyhbhbhbwswswswswswswswswswswswswshbhbhb</Text>
       <StatusBar style="auto" />
     </View>*/
-    <Ventana2/>
+    <Menu/>
   );
 }
 
